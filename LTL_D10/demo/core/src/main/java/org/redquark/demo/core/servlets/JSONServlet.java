@@ -2,10 +2,12 @@ package org.redquark.demo.core.servlets;
 
 import javax.servlet.Servlet;
 
+import org.apache.jackrabbit.oak.commons.json.JsonObject;
 import org.apache.sling.api.SlingHttpServletRequest;
 import org.apache.sling.api.SlingHttpServletResponse;
 import org.apache.sling.api.servlets.HttpConstants;
 import org.apache.sling.api.servlets.SlingSafeMethodsServlet;
+import org.apache.sling.commons.json.JSONArray;
 import org.osgi.framework.Constants;
 import org.osgi.service.component.annotations.Component;
 import static org.redquark.demo.core.constants.AppConstants.URL;
