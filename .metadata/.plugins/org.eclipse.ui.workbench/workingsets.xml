@@ -2,13 +2,7 @@
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1587818656851_0" label="Java Main Sources" name="Java Main Sources"/>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1587818656876_1" label="Java Test Sources" name="Java Test Sources"/>
-<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1589453633440_3" label="demo" name="demo">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/demo" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/demo.core" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/demo.ui.content" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/demo.ui.apps" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/demo.it.tests" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/demo.it.launcher" type="4"/>
-</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1589453633440_3" label="demo" name="demo"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1587818658376_2" label="Window Working Set" name="Aggregate for window 1587818658371"/>
+<mruList name="demo"/>
 </workingSetManager>
